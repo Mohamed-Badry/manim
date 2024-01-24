@@ -1,4 +1,4 @@
-The code was used to make [this video](link).
+The code was used to make [this video](https://youtu.be/fwytVQdm3iI).
 
 ### Some Notes
 - Manim isn't included in the `requirements.txt` file as it requires a different installation method provided [here](https://docs.manim.community/en/stable/installation.html).
