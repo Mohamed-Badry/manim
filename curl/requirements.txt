@@ -1,0 +1,2 @@
+numpy=1.24.3=pypi_0
+sympy=1.12=pypi_0
